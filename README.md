@@ -172,10 +172,20 @@ if st.button("Predict"):
 ## Output:
 
 ![image](https://github.com/Harshini1331/Crop-Rotation-Planner/assets/75235554/ab2c3cc2-8cfc-43a1-b092-4c8f94b92d91)
+
+
 ![image](https://github.com/Harshini1331/Crop-Rotation-Planner/assets/75235554/d572d5e9-1fe6-4532-81ba-733fd0edaae1)
+
+
 ![image](https://github.com/Harshini1331/Crop-Rotation-Planner/assets/75235554/97cb2746-ce83-4da1-bb8c-656e8ff4205e)
+
+
 ![image](https://github.com/Harshini1331/Crop-Rotation-Planner/assets/75235554/a5a2c483-7c79-47f4-8076-c1172227e132)
+
+
 ![image](https://github.com/Harshini1331/Crop-Rotation-Planner/assets/75235554/d31cfdca-d352-44f8-a5e7-e2fd27c2f093)
+
+
 ![image](https://github.com/Harshini1331/Crop-Rotation-Planner/assets/75235554/732d85a6-d1ea-4eeb-b577-a9a2f65d2eb2)
 
 ## Result:
